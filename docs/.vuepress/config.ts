@@ -7,7 +7,7 @@ import { prismjsPlugin } from '@vuepress/plugin-prismjs'
 export default defineUserConfig({
     lang: 'zh-CN',
     title: 'csblog',
-    description: 'computer science blog',
+    description: '一站式秃头孵化基地',
     base: "/csblog/",
     plugins: [
         backToTopPlugin(),
