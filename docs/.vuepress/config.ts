@@ -106,6 +106,34 @@ export default defineUserConfig({
                     text: 'C/C++ 技术面试基础知识总结',
                     link: 'https://interview.huihut.com'
                 },
+                {
+                    text: 'cppreference',
+                    link: 'https://zh.cppreference.com/w/首页'
+                },
+                {
+                    text: '现代C++教程',
+                    link: 'https://changkun.de/modern-cpp/'
+                },
+                {
+                    text: '南京大学操作系统：设计与实现',
+                    link: 'http://jyywiki.cn/OS/2022/'
+                },
+                {
+                    text: 'CMU 15-445/645',
+                    link: 'https://15445.courses.cs.cmu.edu/fall2022/'
+                },
+                {
+                    text: 'MIT 6.828',
+                    link: 'https://pdos.csail.mit.edu/6.828/2022/index.html'
+                },
+                {
+                    text: 'CS 144',
+                    link: 'https://cs144.github.io'
+                },
+                {
+                    text: '(需要翻墙)The Internals of PostgreSQL',
+                    link: 'http://www.interdb.jp/pg/index.html'
+                }
             ]
     })
 })
