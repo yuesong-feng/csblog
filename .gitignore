@@ -3,4 +3,6 @@ zzz.txt
 package-lock.json
 yarn*
 cloudbaserc.json
-docs/.vuepress/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
