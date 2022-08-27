@@ -1,0 +1,7 @@
+.github/
+node_modules/
+zzz.txt
+package*
+yarn*
+cloudbaserc.json
+docs/.vuepress/
