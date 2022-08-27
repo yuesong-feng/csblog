@@ -1,0 +1,16 @@
+{
+  "name": "csblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yuesong-feng <yuesong-feng@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.50",
+    "@vuepress/plugin-prismjs": "^2.0.0-beta.50",
+    "vuepress": "^2.0.0-beta.50"
+  }
+}

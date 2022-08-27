@@ -1,6 +1,6 @@
 node_modules/
 zzz.txt
-package*
+package-lock.json
 yarn*
 cloudbaserc.json
 docs/.vuepress/
