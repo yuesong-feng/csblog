@@ -73,11 +73,6 @@ export default defineUserConfig({
                         'PostgreSQL自定义文本检索分词规则',
                     ],
                 },
-                // {
-                //     text: '算法笔记',
-                //     link: '/leetcode/',
-                //     collapsible: true,
-                // },
                 {
                     text: '小林coding',
                     link: 'https://xiaolincoding.com'
