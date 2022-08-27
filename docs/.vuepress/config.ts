@@ -73,6 +73,39 @@ export default defineUserConfig({
                         'PostgreSQL自定义文本检索分词规则',
                     ],
                 },
+                // {
+                //     text: '算法笔记',
+                //     link: '/leetcode/',
+                //     collapsible: true,
+                // },
+                {
+                    text: '小林coding',
+                    link: 'https://xiaolincoding.com'
+                },
+                {
+                    text: 'labuladong的算法网站',
+                    link: 'https://labuladong.gitee.io/algo/'
+                },
+                {
+                    text: '代码随想录',
+                    link: 'https://www.programmercarl.com'
+                },
+                {
+                    text: 'CodeTop',
+                    link: 'https://codetop.cc/home'
+                },
+                {
+                    text: '阿秀的学习笔记',
+                    link: 'https://interviewguide.cn'
+                },
+                {
+                    text: 'CS-Notes',
+                    link: 'http://www.cyc2018.xyz'
+                },
+                {
+                    text: 'C/C++ 技术面试基础知识总结',
+                    link: 'https://interview.huihut.com'
+                },
             ]
     })
 })
