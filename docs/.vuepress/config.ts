@@ -8,7 +8,7 @@ export default defineUserConfig({
     lang: 'zh-CN',
     title: 'csblog',
     description: '一站式秃头孵化基地',
-    base: "/csblog/",
+    base: "/",
     plugins: [
         backToTopPlugin(),
         prismjsPlugin({}),
