@@ -70,7 +70,7 @@ export default defineUserConfig({
                         '/dbnotes/PostgreSQL文本搜索（五）——词法分析器',
                         '/dbnotes/PostgreSQL文本搜索（六）——词典',
                         '/dbnotes/PostgreSQL文本搜索（七）——自定义配置',
-                        '/dbnotes/PostgreSQL pg_trgm',
+                        // '/dbnotes/PostgreSQL pg_trgm',
                         '/dbnotes/PostgreSQL自定义文本检索分词规则',
                     ],
                 },
