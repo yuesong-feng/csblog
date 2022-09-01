@@ -91,6 +91,10 @@ export default defineUserConfig({
                     link: 'https://codetop.cc/home'
                 },
                 {
+                    text: 'OI WIKI',
+                    link: 'https://oi-wiki.org'
+                },
+                {
                     text: '阿秀的学习笔记',
                     link: 'https://interviewguide.cn'
                 },
