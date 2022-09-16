@@ -27,6 +27,13 @@ export default defineUserConfig({
         sidebar:
             [
                 {
+                    text: 'PostgreSQL 14 Internals 中文版',
+                    collapsible: true,
+                    children: [
+                        '/pg14internals/Isolation.md',
+                    ],
+                },
+                {
                     text: '30天自制C++服务器',
                     // link: '/30dayMakeCppServer/',
                     collapsible: true,
