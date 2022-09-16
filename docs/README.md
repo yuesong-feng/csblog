@@ -8,7 +8,7 @@ csblog网站是对全网优质计算机相关资源的整理，可以让初学�
 
 以下部分为原创内容：
 
-- PostgreSQL 14 Internals 中文翻译
+- PostgreSQL 14 Internals 中文版
 
 - 30天自制C++服务器
 
