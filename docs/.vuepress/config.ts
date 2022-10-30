@@ -53,8 +53,7 @@ export default defineUserConfig({
                         '/30dayMakeCppServer/day12-将服务器改写为主从Reactor多线程模式',
                         '/30dayMakeCppServer/day13-C++工程化、代码分析、性能优化',
                         '/30dayMakeCppServer/day14-支持业务逻辑自定义、完善Connection类',
-                        '/30dayMakeCppServer/day15-macOS、FreeBSD支持',
-                        '/30dayMakeCppServer/day16-完善业务逻辑自定义'
+                        '/30dayMakeCppServer/day15-macOS支持、完善业务逻辑自定义',
                     ],
                 },
                 {
