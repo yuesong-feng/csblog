@@ -80,7 +80,15 @@ export default defineUserConfig({
                         '/dbnotes/PostgreSQL文本搜索（七）——自定义配置',
                         // '/dbnotes/PostgreSQL pg_trgm',
                         '/dbnotes/PostgreSQL自定义文本检索分词规则',
+                        'PostgreSQL查询编译'
                     ],
+                },
+                {
+                    text: 'xv6 lab',
+                    collapsible: true,
+                    children: [
+                        'Xv6 and Unix utilities',
+                    ]
                 },
                 {
                     text: '小林coding',
