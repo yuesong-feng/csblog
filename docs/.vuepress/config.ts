@@ -84,10 +84,10 @@ export default defineUserConfig({
                     ],
                 },
                 {
-                    text: 'xv6 lab',
+                    text: 'C++并发编程',
                     collapsible: true,
                     children: [
-                        'Xv6 and Unix utilities',
+                        'std::thread',
                     ]
                 },
                 {
