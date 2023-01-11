@@ -27,7 +27,7 @@ export default defineUserConfig({
         sidebar:
             [
                 {
-                    text: 'PostgreSQL 14 Internals 中文版',
+                    text: 'PostgreSQL 14 Internals',
                     collapsible: true,
                     children: [
                         '/pg14internals/Isolation.md',
@@ -78,16 +78,15 @@ export default defineUserConfig({
                         '/dbnotes/PostgreSQL文本搜索（五）——词法分析器',
                         '/dbnotes/PostgreSQL文本搜索（六）——词典',
                         '/dbnotes/PostgreSQL文本搜索（七）——自定义配置',
-                        // '/dbnotes/PostgreSQL pg_trgm',
                         '/dbnotes/PostgreSQL自定义文本检索分词规则',
-                        'PostgreSQL查询编译'
+                        '/dbnotes/PostgreSQL查询编译'
                     ],
                 },
 								{
 									text: 'VIM配置',
                   collapsible: true,
 									children: [
-										'/vim/主要操作',
+										'/vim/EasyVim',
 									],
 								},
                 {
@@ -131,7 +130,7 @@ export default defineUserConfig({
                     link: 'https://changkun.de/modern-cpp/'
                 },
                 {
-                    text: '南京大学操作系统：设计与实现',
+                    text: '南京大学操作系统',
                     link: 'http://jyywiki.cn/OS/2022/'
                 },
                 {
