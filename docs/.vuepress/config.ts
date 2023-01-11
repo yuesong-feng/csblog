@@ -83,13 +83,13 @@ export default defineUserConfig({
                         'PostgreSQL查询编译'
                     ],
                 },
-                {
-                    text: 'C++并发编程',
-                    collapsible: true,
-                    children: [
-                        'std::thread',
-                    ]
-                },
+								{
+									text: 'VIM配置',
+                  collapsible: true,
+									children: [
+										'/vim/主要操作',
+									],
+								},
                 {
                     text: '小林coding',
                     link: 'https://xiaolincoding.com'
