@@ -107,7 +107,7 @@ tagbar显示和CTRL-]跳转需要安装ctags程序，推荐universal-ctags
 | ;b                | :bd                              | 关闭当前buffer
 |                   | gt                               | 跳转到下一个tab
 |                   | gT                               | 跳转到上一个tab
-| ;t                | :shell                           | 打开新终端，在终端中使用CTRL-W使用vim窗口控制
+| ;t                | :terminal                        | 打开新终端，在终端中使用CTRL-W使用vim窗口控制
 | CTRL {h或j或k或l} | CTRL-W {h/j/k/l}                 | 在多个窗口跳转
 |                   | CTRL-W {H/J/K/L}                 | 将当前窗口移动到某一方向
 |                   | CTRL-W o                         | 仅保留当前窗口，关闭其他所有窗口
@@ -115,7 +115,7 @@ tagbar显示和CTRL-]跳转需要安装ctags程序，推荐universal-ctags
 |                   | CTRL-W [count]+或-               | 增加或减少[count]单位的当前窗口高度
 |                   | CTRL-W _                         | 将当前窗口的高度设置为尽可能最高
 |                   | CTRL-W [count]<或>               | 增加或减少[count]单位的当前窗口宽度
-|                   | CTRL-W \|												 | 将当前窗口的宽度设置为尽可能最宽
+|                   | CTRL-W \|                        | 将当前窗口的宽度设置为尽可能最宽
 
 ## C/C++、LSP、代码提示补全等
 
