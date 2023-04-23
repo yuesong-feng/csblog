@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6e5ffcac","path":"/c/static%E5%92%8Cinline.html","title":"C\u8BED\u8A00static\u548Cinline","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1682215980000,"contributors":[{"name":"yuesong-feng","email":"yuesong-feng@foxmail.com","commits":1}]},"filePathRelative":"c/static\u548Cinline.md"}');export{e as data};
