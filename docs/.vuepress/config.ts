@@ -82,13 +82,20 @@ export default defineUserConfig({
                         '/dbnotes/PostgreSQL查询编译'
                     ],
                 },
-								{
-									text: 'VIM配置',
-                  collapsible: true,
-									children: [
-										'/vim/EasyVim',
-									],
-								},
+                {
+                    text: 'VIM配置',
+                    collapsible: true,
+                    children: [
+                        '/vim/EasyVim',
+                    ],
+                },
+                {
+                    text: 'C语言奇淫巧计',
+                    collapsible: true,
+                    children: [
+                        '/c/static和inline'
+                    ],
+                },
                 {
                     text: '小林coding',
                     link: 'https://xiaolincoding.com'
